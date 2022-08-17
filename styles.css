@@ -1,0 +1,25 @@
+#results {
+    border: 2px dotted blue;
+    height: 40px;
+    width: 125px;
+    text-align: center;
+    line-height: 40px;
+}
+
+#buttons{
+    display:flex;
+
+
+}
+
+#numbers{
+    display: flex;
+    flex-wrap: wrap;
+    width: 75px;
+}
+
+#functions{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
